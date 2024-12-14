@@ -1,5 +1,5 @@
 # Olá! Eu sou Vinicius
-🚀 Estudante Full Stack em constante evolução.<br>🌐 Explorando React e Vue para criar interfaces.<br>🎓 Futuramente estarei cursando Análise e Desenvolvimento de Sistemas.<br>🤝 Aberto a colaborações..
+🚀 Estudante Full Stack em constante evolução.<br>🌐 Explorando React para criar interfaces.<br>🎓 Engenharia de Software em progressso...<br>🤝 Aberto a colaborações..
 
 ## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/alcode.dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-alves-9b17b3283/) 
