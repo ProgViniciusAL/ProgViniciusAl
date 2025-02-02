@@ -51,7 +51,9 @@ Sou um desenvolvedor motivado, com experiência na criação de soluções efici
 ## 📞 Contato
 
 <a href="https://www.linkedin.com/in/vinicius-alves-9b17b3283" target="blank">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-alves-9b17b3283)
+  ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-      
+  badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-alves-      
+  9b17b3283)
 </a>
 
 📧 Email: viniciusalvesms757@gmail.com
