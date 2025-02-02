@@ -1,20 +1,56 @@
-# Olá! Eu sou Vinicius
-🚀 Estudante Full Stack em constante evolução.<br>🌐 Explorando React para criar interfaces.<br>🎓 Engenharia de Software em progressso...<br>🤝 Aberto a colaborações..
+# Vinicius Alves Marques da Silva
 
-## 🌐 Redes Sociais:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/alcode.dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-alves-9b17b3283/) 
+## 💻 Desenvolvedor Full Stack | Entusiasta em Back-End
 
-# 💻 Tecnologias e ferramentas:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
-# 📊 Status GitHub:
-![](https://github-readme-stats.vercel.app/api?username=Vitenskapp&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vitenskapp&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitenskapp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Sou um desenvolvedor motivado, com experiência na criação de soluções eficientes e escaláveis. Meu foco principal está no desenvolvimento de APIs robustas utilizando **Java e Spring Boot**, além de interfaces modernas e dinâmicas com **React e TypeScript**.
 
-### 🔝 Top contribuições
-![](https://github-contributor-stats.vercel.app/api?username=Vitenskapp&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+### 📌 Áreas de Atuação
+- Desenvolvimento de **APIs RESTful** com **Spring Boot**
+- Modelagem de **bancos de dados PostgreSQL**
+- Construção de **interfaces responsivas** utilizando **React e TypeScript**
+- Implementação de **boas práticas de arquitetura de software**
+
+### 🎯 Objetivos Profissionais
+- Aprofundar conhecimentos em **arquitetura de software e microsserviços**
+- Aplicar **design patterns** para criação de código escalável e manutenível
+- Melhorar habilidades em **segurança e autenticação de APIs**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Vitenskapp&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 Estatísticas do GitHub
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <div style="text-align:center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Vitenskapp&show_icons=true&theme=tokyonight" />
+  </div>
+  
+  <div style="text-align:center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitenskapp&layout=compact&theme=tokyonight" />
+  </div>
+  
+  <div style="text-align:center;">
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com/?user=Vitenskapp&theme=tokyonight" />
+    </a>
+  </div>
+</div>
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+## 📞 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/vinicius-alves-9b17b3283/)
+
+📧 Email: viniciusalvesms757@gmail.com
+
