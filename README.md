@@ -1,6 +1,6 @@
 # Vinicius Alves Marques da Silva
 
-## 💻 Desenvolvedor Full Stack | Entusiasta em Back-End
+## 💻 Desenvolvedor Full Stack
 
 Sou um desenvolvedor motivado, com experiência na criação de soluções eficientes e escaláveis. Meu foco principal está no desenvolvimento de APIs robustas utilizando **Java e Spring Boot**, além de interfaces modernas e dinâmicas com **React e TypeScript**.
 
