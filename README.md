@@ -21,16 +21,16 @@ Sou um desenvolvedor motivado, com experiência na criação de soluções efici
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <div style="text-align:center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Vitenskapp&show_icons=true&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ProgViniciusAl&show_icons=true&theme=tokyonight" />
   </div>
   
   <div style="text-align:center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitenskapp&layout=compact&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgViniciusAl&layout=compact&theme=tokyonight" />
   </div>
   
   <div style="text-align:center;">
     <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com/?user=Vitenskapp&theme=tokyonight" />
+      <img src="https://streak-stats.demolab.com/?user=ProgViniciusAl&theme=tokyonight" />
     </a>
   </div>
 </div>
